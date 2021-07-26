@@ -13,15 +13,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Tejender Reddy Kolla",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaiDhanush3/InventoryManagement.git"
+    "url": "git+https://github.com/tejenderkolla/Inventory-managment.git"
   },
   "bugs": {
-    "url": "https://github.com/SaiDhanush3/InventoryManagement/issues"
+    "url": "https://github.com/tejenderkolla/Inventory-managment/issues"
   },
-  "homepage": "https://github.com/SaiDhanush3/InventoryManagement#readme",
-  "description": ""
+  "homepage": "https://github.com/tejenderkolla/Inventory-managment#readme",
+  "description": "Inventory Management System"
 }
